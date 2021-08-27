@@ -37,11 +37,11 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/tokencenter/bep20-generator.git"
+    "url": "https://github.com/tokeniac/bep20-token-create.git"
   },
-  "homepage": "https://tokencenter.github.io/bep20-generator",
+  "homepage": "https://tokeniac.github.io/bep20-token-create",
   "bugs": {
-    "url": "https://github.com/tokencenter/bep20-generator/issues"
+    "url": "https://github.com/tokeniac/bep20-token-create/issues"
   },
   "author": "Vittorio Minacori",
   "contributors": [
