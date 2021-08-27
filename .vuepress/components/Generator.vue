@@ -7,7 +7,7 @@
             <template #lead>
                 Easily deploy Smart Contract for a Standard, Capped, Mintable, Burnable BEP20 Token.
                 <br>
-                BEP20 Generator is the easiest and fastest way to create your own BEP20 token on the Binance Smart Chain network. No coding skills are required.
+                Tokeniac is the easiest, safest and fastest way to create your own BEP20 token on the Binance Smart Chain network. No coding skills are required.
             </template>
         </b-jumbotron>
         <b-row id="token-generator" class="mx-0">
@@ -355,7 +355,7 @@
                                                         :class="{'is-invalid': errors.length > 0}">
                                                     <p>
                                                         I have read, understood and agreed to
-                                                        BEP20 Token Generator's
+                                                        Tokeniac - BEP20 Token Create's
                                                         <u v-b-modal.modal-terms>Terms of Use</u>.
                                                     </p>
                                                 </b-form-checkbox>
@@ -377,7 +377,7 @@
                                                     <b-icon-info-circle v-b-popover.v-warning.hover.top="
                                                         'Commission will be transferred directly to us through the ' +
                                                         'BSC network as part of your payment. ' +
-                                                        'Commission will support BEP20 Token Generator to keep it ' +
+                                                        'Commission will support Tokeniac - BEP20 Token Create to keep it ' +
                                                         'safe, running and constantly updated.'">
                                                         </b-icon-info-circle>
                                                 </span>

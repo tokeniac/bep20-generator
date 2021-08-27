@@ -3,9 +3,9 @@
         <b-row>
             <b-col>
                 <b-card bg-variant="light" class="mb-4">
-                    <h3 class="font-weight-light">BEP20 Token Generator</h3>
+                    <h3 class="font-weight-light">Tokeniac - BEP20 Token Create</h3>
                     <p class="font-weight-light">
-                        Create your own BEP20 Smart Contract without coding. BEP20 Generator is the easiest and fastest way to create your own BEP20 token on the Binance Smart Chain network. No coding skills are required.
+                        Create your own BEP20 Smart Contract without coding. Tokeniac is the easiest, safest and fastest way to create your own BEP20 token on the Binance Smart Chain network. No coding skills are required.
                     </p>
                     <hr class="my-4">
                     <h6 class="font-weight-light">The BEP20 Standard</h6>
@@ -216,14 +216,14 @@
                                    @click.prevent
                                    class="btn-block text-reset text-decoration-none">
                                     <span itemprop="name">
-                                        Will be having BEP20 Generator Copyright an issue?
+                                        Will be having Tokeniac - BEP20 Token Create Copyright an issue?
                                     </span>
                                 </a>
                             </b-card-header>
                             <b-collapse id="will-copyright-be-an-issue" class="p-4" accordion="features-accordion">
                                 <b-card-text itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
                                     <span itemprop="text">
-                                        No. BEP20 Generator code is released under MIT License so, using TestERC20 for
+                                        No. Tokeniac - BEP20 Token Create code is released under MIT License so, using TestERC20 for
                                         FREE or SimpleBEP20, you will have a view method in your Smart Contract named
                                         "generator" showing a link to this page.
                                         You will also have a disclaimer in source code.
@@ -666,14 +666,14 @@
                 <b-alert show variant="warning" class="mt-4">
                     <h4 class="alert-heading">DISCLAIMER</h4>
                     <p>
-                        BEP20 Token Generator and its author are free of any liability regarding Tokens built using
-                        this App, and the use that is made of them. Tokens built on BEP20 Token Generator, their
+                        Tokeniac - BEP20 Token Create and its author are free of any liability regarding Tokens built using
+                        this App, and the use that is made of them. Tokens built on Tokeniac - BEP20 Token Create, their
                         projects, their teams, their use of Token (as well as anything related to Token) are in no way
-                        connected to BEP20 Token Generator or its author.
+                        connected to Tokeniac - BEP20 Token Create or its author.
                     </p>
                     <hr>
                     <small>
-                        BEP20 Token Generator's code is provided under MIT License. Anyone can use it as per their
+                        Tokeniac - BEP20 Token Create's code is provided under MIT License. Anyone can use it as per their
                         needs. The App's purpose is to make people able to tokenize their ideas without coding or
                         paying large amounts for it. Source code is public and well tested and continuously updated to
                         reduce risk of bugs and introduce language optimizations. Anyway the purchase of tokens

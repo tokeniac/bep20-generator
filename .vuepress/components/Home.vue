@@ -1,13 +1,13 @@
 <template>
     <div>
         <b-jumbotron text-variant="white"
-                     header="BEP20 Token Generator"
+                     header="Tokeniac - BEP20 Token Create"
                      class="mb-0 wiretap-gradient"
                      fluid>
             <template #lead>
                 Create your own BEP20 Smart Contract without coding.
                 <br>
-                BEP20 Generator is the easiest and fastest way to create your own BEP20 token on the Binance Smart Chain network. No coding skills are required.
+                Tokeniac is the easiest, safest and fastest way to create your own BEP20 token on the Binance Smart Chain network. No coding skills are required.
             </template>
             <hr class="my-5">
             <p>
@@ -30,7 +30,7 @@
                 <p class="text-center font-weight-light">
                     Easily deploy Smart Contract for a Standard, Capped, Mintable, Burnable BEP20 Token.
                     <br>
-                    BEP20 Generator is the easiest and fastest way to create your own BEP20 token on the Binance Smart Chain network. No coding skills are required.
+                    Tokeniac is the easiest, safest and fastest way to create your own BEP20 token on the Binance Smart Chain network. No coding skills are required.
                 </p>
                 <ui--how-it-works></ui--how-it-works>
             </b-col>
