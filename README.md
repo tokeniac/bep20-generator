@@ -1,4 +1,4 @@
-# BEP20 Token Generator
+# Tokeniac - BEP20 Token Create
 
 [![CI](https://github.com/tokeniac/bep20-token-create/workflows/CI/badge.svg?branch=master)](https://github.com/tokeniac/bep20-token-create/actions/)
 [![Coverage Status](https://coveralls.io/repos/github/tokeniac/bep20-token-create/badge.svg?branch=master)](https://coveralls.io/github/tokeniac/bep20-token-create?branch=master)
