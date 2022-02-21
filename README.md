@@ -12,7 +12,7 @@ meta:
     - property: og:description
       content: Create your own BEP20 Smart Contract without coding. Tokeniac is the easiest, safest and fastest way to create your own BEP20 token on the Binance Smart Chain network. No coding skills are required.
     - property: og:url
-      content: https://tokeniac.github.io/bep20-token-create/
+      content: https://tokeniac.github.io/bep20-generator/
 ---
 
 # Tokeniac - BEP20 Token Create - DAPP
@@ -21,8 +21,8 @@ Easily deploy Smart Contract for a Standard, Capped, Mintable, Burnable BEP20 To
 
 ## Try it
 
-https://tokeniac.github.io/bep20-token-create/
+https://tokeniac.github.io/bep20-generator/
 
 ## License
 
-Code released under the [MIT License](https://github.com/tokeniac/bep20-token-create/blob/master/LICENSE).
+Code released under the [MIT License](https://github.com/tokeniac/bep20-generator/blob/master/LICENSE).

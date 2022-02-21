@@ -13,5 +13,5 @@ meta:
     - property: og:description
       content: Tokeniac - BEP20 Token Create Tool Documentation. Discover more details about different BEP20 Token Types, ABI, source code and analysis report.
     - property: og:url
-      content: https://tokeniac.github.io/bep20-token-create/docs/
+      content: https://tokeniac.github.io/bep20-generator/docs/
 ---

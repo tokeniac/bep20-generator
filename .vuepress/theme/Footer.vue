@@ -54,7 +54,7 @@
             <b-embed
                     type="iframe"
                     aspect="4by3"
-                    src="https://tokeniac.github.io/bep20-token-create-terms/"
+                    src="https://tokeniac.github.io/bep20-generator-terms/"
                     allow="accelerometer;autoplay;clipboard-write;encrypted-media;gyroscope;picture-in-picture"
                     allowfullscreen
             ></b-embed>
